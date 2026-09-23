@@ -2,3 +2,26 @@ Shop: Lower Manhattan
 Drink revenue: $1092.24
 Pastry revenue: $152.55
 Total revenue: $1244.79
+
+--- Supporting Data ---
+bakery attach rate: 14.0%
+
+Monthly sales trend:
+  Jan: 8249
+  Feb: 7895
+  Mar: 10209
+  Apr: 12249
+  May: 16175
+  Jun: 16965
+Growth (Jan to Jun): 2.06times
+
+Product category comparison:
+  Coffee: 18204
+  Tea: 13912
+  Bakery: 7890
+  Drinking Chocolate: 3405
+  Flavours: 2930
+  Coffee beans: 531
+  Loose Tea: 381
+  Branded: 349
+  Packaged Chocolate: 180

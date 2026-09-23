@@ -1,0 +1,4 @@
+Shop: Lower Manhattan
+Drink revenue: $1092.24
+Pastry revenue: $152.55
+Total revenue: $1244.79

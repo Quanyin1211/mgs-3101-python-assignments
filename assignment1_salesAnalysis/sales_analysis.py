@@ -17,8 +17,16 @@ print(drink_revenue)
 print(pastry_revenue)
 print(total_revenue)
 
+#write a txt file
 with open("sales_analysis.txt", "w") as f:
     f.write("Shop: " + shop_name + "\n")
     f.write("Drink revenue: $" + str(drink_revenue) + "\n")
     f.write("Pastry revenue: $" + str(pastry_revenue) + "\n")
     f.write("Total revenue: $" + str(total_revenue) + "\n")
+
+#if/else
+if total_revenue >= 500:
+    print("Total revenue is at least $500.")
+else:
+    print("Total revenue is below $500.")
+

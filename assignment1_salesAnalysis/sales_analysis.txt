@@ -5,9 +5,8 @@ Shop: Lower Manhattan
 I used sales data from March 27, 2023 to calculate daily revenue,
 and I also analyzed the full dataset from January to June 2023 to support my recommendations.
 I chose March because the store's sales had been steadily growing from January to June,
-so I picked the middle month. Within March,
-I selected March 27th because it had the highest daily revenue. In Excel,
-I filtered by product category: I grouped Bakery as one category, and Coffee,
+so I picked the middle month. Within March, I selected one day randomly. 
+In Excel, I filtered by product category: I grouped Bakery as one category, and Coffee,
 Tea, and Drinking Chocolate as another.
 I then looked at the average quantity sold and average unit price for each group,
 and calculated the daily revenue.
@@ -55,3 +54,4 @@ entire dataset, because daily sales and unit prices vary from day to day.
 It feels like analyzing just one day may not be representative of the overall picture.
 2. Why did February sales drop compared to January? If I can find the reason, 
 maybe I can figure out how to prevent similar monthly declines in the future.
+3. 

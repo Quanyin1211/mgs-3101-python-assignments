@@ -1,5 +1,6 @@
 Coffee Shop Sales Analysis
 Shop: Lower Manhattan
+Date: March 27
 ---Understanding of the Data---
 
 I used sales data from March 27, 2023 to calculate daily revenue,
@@ -54,4 +55,4 @@ entire dataset, because daily sales and unit prices vary from day to day.
 It feels like analyzing just one day may not be representative of the overall picture.
 2. Why did February sales drop compared to January? If I can find the reason, 
 maybe I can figure out how to prevent similar monthly declines in the future.
-3. 
+3. I don't know why there are documents with a mark$, which is not created by myself.

@@ -1,27 +1,57 @@
+Coffee Shop Sales Analysis
 Shop: Lower Manhattan
+---Understanding of the Data---
+
+I used sales data from March 27, 2023 to calculate daily revenue,
+and I also analyzed the full dataset from January to June 2023 to support my recommendations.
+I chose March because the store's sales had been steadily growing from January to June,
+so I picked the middle month. Within March,
+I selected March 27th because it had the highest daily revenue. In Excel,
+I filtered by product category: I grouped Bakery as one category, and Coffee,
+Tea, and Drinking Chocolate as another.
+I then looked at the average quantity sold and average unit price for each group,
+and calculated the daily revenue.
+
+---Here is the data and outcome---
+
+Drinks sold: 369
+Price per drink: $2.96
 Drink revenue: $1092.24
+
+Pastries sold: 45
+Price per pastry: $3.39
 Pastry revenue: $152.55
+
 Total revenue: $1244.79
+Total revenue is at least $500
 
---- Supporting Data ---
-bakery attach rate: 14.0%
+---Recommendation 1---
 
-Monthly sales trend:
-  Jan: 8249
-  Feb: 7895
-  Mar: 10209
-  Apr: 12249
-  May: 16175
-  Jun: 16965
-Growth (Jan to Jun): 2.06times
+Over 6 months, the store sold 57,518 drinks but only 8,040 pastries, 
+giving a pairing rate of only 14%. This means out of every 100 customers who buy coffee, 
+only 14 are willing to buy a bakery item. Interestingly, the average price of pastries is 
+actually higher than that of drinks. I recommend using promotions or combo deals 
+- for example, a $5 combo where customers can choose any drink plus one bakery item.
 
-Product category comparison:
-  Coffee: 18204
-  Tea: 13912
-  Bakery: 7890
-  Drinking Chocolate: 3405
-  Flavours: 2930
-  Coffee beans: 531
-  Loose Tea: 381
-  Branded: 349
-  Packaged Chocolate: 180
+---Recommendation 2---
+
+Looking at the long-term trend, sales have been steadily increasing from January to June 
+(with only a slight decrease in February). January: 8,249, February: 7,895, March: 10,209, 
+April: 12,249, May: 16,175, June: 16,965. Sales grew 2.06 times from January to June. 
+This means hiring more staff is necessary. 
+To keep up with the growing customer traffic and demand during peak hours, 
+the store should also consider adding more espresso machines and drink preparation equipment. 
+Otherwise, even with more staff, a lack of machines would reduce marginal output.
+
+---Recommendation 3---
+Coffee clearly has the highest sales volume 
+(18,204 records, compared to Tea at 13,912 and Bakery at 7,890). 
+I recommend continuing to invest in developing new coffee drinks and positioning coffee 
+as the store's main selling point.
+
+---Questions---
+1. I was confused about whether the sales analysis should use a single day as a sample or the 
+entire dataset, because daily sales and unit prices vary from day to day. 
+It feels like analyzing just one day may not be representative of the overall picture.
+2. Why did February sales drop compared to January? If I can find the reason, 
+maybe I can figure out how to prevent similar monthly declines in the future.
